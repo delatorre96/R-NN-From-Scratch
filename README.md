@@ -1,5 +1,4 @@
 # R-NN-From-Scratch
-# R Neural Network from Scratch
 
 Este repositorio contiene una implementación de una red neuronal en el lenguaje de programación R sin el uso de bibliotecas de aprendizaje profundo externas. La red neuronal se ha diseñado para trabajar con datos tabulados y cuenta con características esenciales como tasa de aprendizaje, épocas, función de error, y más.
 
