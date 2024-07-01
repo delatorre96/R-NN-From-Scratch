@@ -24,7 +24,7 @@ This R script implements a simple neural network with and without hidden layers.
 
 ```bash
 git clone <repository_url>
-
+```
 ## Functions
 
 ### Error Calculation
